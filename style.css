@@ -37,3 +37,6 @@ a[rel="external"] {
 section > main {
     margin-bottom: 3rem;
 }
+section > main > h2 ~ p strong {
+    color: purple;
+}
