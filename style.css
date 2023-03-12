@@ -14,3 +14,6 @@ h1, h3 + p {
     font-family: sans-serif;
     font-weight: bold;
 }
+div header {
+    margin: 1em 0;
+}
