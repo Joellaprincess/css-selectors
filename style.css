@@ -28,3 +28,6 @@ p > header {
     width: 150px;
     border-radius: 50%;
 }
+a[rel="external"] {
+    color: purple;
+}
