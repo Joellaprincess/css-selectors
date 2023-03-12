@@ -43,3 +43,6 @@ section > main > h2 ~ p strong {
 li:nth-child(2) {
     color: purple;
 }
+dl > div:last-child {
+    background-color: #ccc;
+}
